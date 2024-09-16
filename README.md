@@ -10,9 +10,6 @@ Welcome to the **Pizza Sales Report** project, where we leverage SQL for data an
 - [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
 - [Dashboard Overview](#dashboard-overview)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Contributors](#contributors)
-- [Feedback and Contributions](#feedback-and-contributions)
-- [License](#license)
 
 ## Features
 
