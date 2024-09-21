@@ -1,4 +1,4 @@
-# Pizza Sales Report with SQL and Power BI
+# Pizza Sales Report with SQL and Tableau
 
 Welcome to the **Pizza Sales Report** project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
 
@@ -7,7 +7,7 @@ Welcome to the **Pizza Sales Report** project, where we leverage SQL for data an
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Data Analysis with SQL](#data-analysis-with-sql)
-- [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
+- [Creating Dashboards with Tableau](#creating-dashboards-with-tableau)
 - [Dashboard Overview](#dashboard-overview)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
 
@@ -26,11 +26,11 @@ Welcome to the **Pizza Sales Report** project, where we leverage SQL for data an
 1. **Data Analysis with SQL**:
    - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="pizza_sales_analysis.sql">sql_sales_analysis.sql</a> of this repository.
 
-2. **Creating Dashboards with Power BI**:
-   - The Power BI project file <a href="pizza_sales_report.pbix">pizza_sales_report.pbix</a> contains the interactive dashboards. You can open and customize it with Power BI Desktop.
+2. **Creating Dashboards with Tableau**:
+   - The Tableau file <a href="pizza_sales_report.pbix">pizza_sales_report.pbix</a> contains the interactive dashboards. You can open and customize it with Tableau.
 
 3. **Access the Dashboard**:
-   - Open the `pizza_sales_report.pbix` file with Power BI Desktop to explore the interactive dashboards.
+   - Open the `pizza_sales_report.pbix` file with Tableau to explore the interactive dashboards.
 
 ## Data Analysis with SQL
 
@@ -40,9 +40,9 @@ The SQL analysis involved the extraction and transformation of the data, which i
    - Identify the least-selling pizzas based on revenue, quantity, and total orders.
    - Identifying the % of sales by pizza category and orders placed by the customers.
 
-## Creating Dashboards with Power BI
+## Creating Dashboards with Tableau
 
-Power BI is used to create interactive dashboards for visualizing the pizza sales data. The Power BI project file (`pizza_sales_report.pbix`) contains the following interactive dashboards:
+Tableau is used to create interactive dashboards for visualizing the pizza sales data. The Tableau project file (`pizza_sales_report.pbix`) contains the following interactive dashboards:
 
 ### Dashboard Overview
 
@@ -60,16 +60,4 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 ### Best/Worst Sellers Report Dashboard
 <img src="Dashboards/2_Best_worst_Sellers_Report_Dashboard.png">
 
-### How to Use the Dashboard
 
-1. **Open Power BI Desktop**:
-   - Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't already.
-
-2. **Open the Project File**:
-   - Launch Power BI Desktop and open the `pizza_sales_report.pbix` file.
-
-3. **Explore the Dashboards**:
-   - Navigate between the different views by clicking on the tabs on the left side.
-
-4. **Interact with Visuals**:
-   - The visuals are interactive; you can hover, click, and filter the data to gain deeper insights.
